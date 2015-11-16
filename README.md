@@ -6,9 +6,10 @@ Obivously, this does not even begin to cover everything, but it seems like a goo
 ![A debugging flowchart](./debugging.png)
 
 ##The basics
-1. Check to see if your function/loop/if statement is triggered when you expect it to be triggered.
-2. Check to see if it is receiving the data that you think it should be receiving.
-3. Check to see if the result is the result you are expecting.
+1. Be sure you know what you expect your function/loop/if statement to do.
+2. Check to see if your function/loop/if statement is triggered when you expect it to be triggered.
+3. Check to see if it is receiving the data that you think it should be receiving.
+4. Check to see if the result is the result you are expecting.
 
 ##Tools for debugging
 ####Documentation
@@ -28,6 +29,7 @@ Linters are pretty good at catching syntax errors, so litening to what they tell
 ####Ruby/Rails
 * byebug gem
 * `render json: <whatever you want to see>`
+* p or puts
 
 
 
