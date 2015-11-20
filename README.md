@@ -1,5 +1,5 @@
 # Debugging
-I'm just starting to learn javaScript and Ruby, an I thought that conceptualizing how I debug would be useful for me and hopefully for other people as well. Therefore...
+I'm just starting to learn JavaScript and Ruby, an I thought that conceptualizing how I debug would be useful for me and hopefully for other people as well. Therefore...
 
 ##A flowchart for debugging your code
 Obivously, this does not even begin to cover everything, but it seems like a good place to start.
