@@ -31,6 +31,9 @@ Linters are pretty good at catching syntax errors, so litening to what they tell
 * `render json: <whatever you want to see>`
 * p or puts
 
+##Links
+[Edit this chart on Lucidchart](https://www.lucidchart.com/invitations/accept/38442e0f-3e50-4116-8d21-5084d5b727d7)
+
 
 
 
